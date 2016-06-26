@@ -9,16 +9,12 @@ description: "Welcome to illperipherals."
 
 # Team names, titles and social links
 people:
-- name: Travis L. Teague
-  pic: 1
-  position: Developer
+- name: 
+  pic: 
+  position: 
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: 
+      url:
 
 - name: Travis L. Teague
   pic: 1
@@ -31,16 +27,12 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Travis L. Teague
-  pic: 1
-  position: Developer
+- name: 
+  pic: 
+  position: 
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: 
+      url: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
