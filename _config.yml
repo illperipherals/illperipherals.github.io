@@ -10,11 +10,7 @@ description: "Welcome to illperipherals."
 # Team names, titles and social links
 people:
 - name: 
-  pic: 
   position: 
-  social:
-    - title: 
-      url:
 
 - name: Travis L. Teague
   pic: 1
@@ -28,11 +24,7 @@ people:
       url: #
 
 - name: 
-  pic: 
   position: 
-  social:
-    - title: 
-      url: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
