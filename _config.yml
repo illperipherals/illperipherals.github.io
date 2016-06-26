@@ -1,5 +1,5 @@
 url: https://illperipherals.github.io
-baseurl: 
+baseurl:
 
 # Site settings
 title: illperipherals
@@ -9,6 +9,28 @@ description: "Welcome to illperipherals."
 
 # Team names, titles and social links
 people:
+- name: Travis L. Teague
+  pic: 1
+  position: Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Travis L. Teague
+  pic: 1
+  position: Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
 - name: Travis L. Teague
   pic: 1
   position: Developer
