@@ -1,0 +1,15 @@
+---
+title: AWS / Alexa Design
+subtitle: Amazon Services and Voice Design
+layout: default
+modal-id: 2
+date: 2016-01-01
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+project-date: January 2016
+client: Various
+category: Software
+description:
+
+---

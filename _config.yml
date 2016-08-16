@@ -2,35 +2,40 @@ url: https://illperipherals.github.io
 baseurl:
 
 # Site settings
-title: illperipherals
+title: illperipherals.net
 email: travis.teague@gmail.com
-description: "Welcome to illperipherals"
+description: "welcome to illperipherals.net"
 
 
 # Team names, titles and social links
 people:
 
-- name:
+- name: Travis
   pic: 1
   position: Developer
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/ill_peripherals
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/illperipherals/
+
+- name: Verin
+  pic: 2
+  position: Designer
+  social:
+    - title: pinterest
+      url: https://www.pinterest.com/VerinTeague/
+
+- name: Sebastian
+  pic: 3
+  position: Licker of Things
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/
+    url: http://twitter.com/ill_peripherals
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/
-  - title: github
-    url: http://github.com/illperipherals
+    url: http://facebook.com/illperipherals
 
 # Postal address (add as many lines as necessary)
 address:

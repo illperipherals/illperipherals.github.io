@@ -1,0 +1,15 @@
+---
+title: Clothing
+subtitle: Clothing and Patterns
+layout: default
+modal-id: 3
+date: 2016-01-01
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+project-date: January 2016
+client: Various/In-house
+category: Clothing
+description:
+
+---
